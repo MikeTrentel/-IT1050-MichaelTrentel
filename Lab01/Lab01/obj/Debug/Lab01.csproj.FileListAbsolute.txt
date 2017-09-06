@@ -1,0 +1,6 @@
+C:\Users\Root\Documents\-IT1050-MichaelTrentel\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Root\Documents\-IT1050-MichaelTrentel\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\Root\Documents\-IT1050-MichaelTrentel\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Root\Documents\-IT1050-MichaelTrentel\Lab01\Lab01\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
+C:\Users\Root\Documents\-IT1050-MichaelTrentel\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\Root\Documents\-IT1050-MichaelTrentel\Lab01\Lab01\obj\Debug\Lab01.pdb
